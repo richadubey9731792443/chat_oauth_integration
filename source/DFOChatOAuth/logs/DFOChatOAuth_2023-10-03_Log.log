@@ -1,0 +1,14 @@
+2023-10-03 13:36:12.1389 DFOChatOAuth.Controllers.DFOChatOAuthController.Authorize Trace Start Authorize 
+
+2023-10-03 13:36:12.1398 DFOChatOAuth.Controllers.DFOChatOAuthController.Authorize Trace End Authorize 
+
+2023-10-03 13:36:14.9035 DFOChatOAuth.Controllers.DFOChatOAuthController.Refresh Trace Start Refresh 
+
+2023-10-03 13:36:14.9055 DFOChatOAuth.Controllers.DFOChatOAuthController.Refresh Trace End Refresh 
+
+2023-10-03 13:36:58.7595 DFOChatOAuth.Controllers.DFOChatOAuthController.GetMe Trace Start Me 
+
+2023-10-03 13:36:59.7588 DFOChatOAuth.Controllers.DFOChatOAuthController.GetMe Debug authorization header value: Bearer ea7afba053836fa62f49a40c0c08f5580cf61057 
+
+2023-10-03 13:37:01.0224 DFOChatOAuth.Controllers.DFOChatOAuthController.GetMe Trace End Me 
+
