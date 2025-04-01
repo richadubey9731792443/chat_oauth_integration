@@ -135,5 +135,14 @@ namespace DFOChatOAuth.Controllers
             Log.Trace("End Me");
             return Json(response);
         }
+
+        [HttpGet]
+        [Route("test")]
+        public IHttpActionResult TestPath()
+        {
+            Log.Trace("Start TestPath");
+            Log.Trace("End TestPath");
+            return Ok();
+        }
     }
 }
